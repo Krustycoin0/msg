@@ -1,0 +1,10 @@
+msg/
+│
+├── app.py
+├── wsgi.py
+├── requirements.txt
+└── vercel.json
+└── templates/
+    ├── index.html
+    ├── login.html
+    └── register.html
